@@ -1,15 +1,27 @@
 body {
-	background-color : #CCCCFF;
-	color : #0000FF;
+	background-color : #F0EAD6;
+	color :	#472F17;
+}
+
+body a {
+	color : #660000;
+}
+
+body a:visited  {
+	color : #996600;
+}
+
+body a:link {
+	color : #660066;
 }
 
 header {
-	background-color : #0000FF;
+	background-color : #472F17;
 }
 
 header h1 {
 	text-align : center;	
-	color : #CCCCFF;
+	color : #F0EAD6;
 }
 
 main {
@@ -22,30 +34,7 @@ aside {
 	width : 40%
 }
 
-ul#cursos {
-	margin-left : auto;
-	margin-right : auto;
-	padding : 0;
-	list-style : none;
-	width : 1024px;
-}
-
-ul#cursos li {
-	display : inline-block;
-	width : 507px;
-	margin : 0 0 15px 0;
-	padding : 0;
-	text-align : center;
-	border : solid 1px #0000FF;
-}
-
-ul#cursos li h3 {
-	margin : 0;
-	background-color : #0000FF;
-	color : #CCCCFF;
-}
-
 footer {
 	width : auto;
-	color : #0000FF;
+	color : #7D6D37;
 }
