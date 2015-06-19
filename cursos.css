@@ -7,6 +7,10 @@ body a {
 	color : #660000;
 }
 
+a.bub {
+	color : #472F17;
+}
+
 body a:visited  {
 	color : #996600;
 }
