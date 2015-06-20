@@ -35,10 +35,11 @@ main {
 aside {
 	float : right;
 	position : relative;
-	width : 40%
+	width : 40%;
 }
 
 footer {
+  	font-size : small;
 	width : auto;
 	color : #7D6D37;
 }
