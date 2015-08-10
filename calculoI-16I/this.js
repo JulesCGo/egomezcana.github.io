@@ -1,7 +1,7 @@
 function infoHint(){
   var hints = [
   	{ 'code' :	'Spi92' ,
-	  'title' :	'Spivak, Michael: Cálculo Infinitesimal. Editorial Reverté, segunda ed., 1992.',
+	  'title' :	'Spivak, Michael: Cálculo Infinitesimal. Editorial Reverté, segunda ed., 1992.'
 	},
 	{ 'code' :	'Apo84',
 	  'title' :	'Apostol, Tom M.: Cálculo con funciones de una variable, con una introducción al Álgebra Lineal. Editorial Reverté, 1984. '
