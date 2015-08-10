@@ -11,7 +11,7 @@ function infoHint(){
 	},
 	{ 'code' :	'Prol',
 	  'title' :	'Notas al prólogo de [Spi92]',
-	  'url' :	'/pdfs/prologo.pdf'
+	  'url' :	'pdfs/prologo.pdf'
 	}
   ]
 
