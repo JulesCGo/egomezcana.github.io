@@ -43,3 +43,7 @@ function infoHint(){
     }
   }
 }
+
+window.onload = function () {
+  infoHint();
+}
