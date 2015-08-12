@@ -1,17 +1,17 @@
 function infoHint(){
   var hints = [
   	{ 'code' :	'Spi92' ,
-	  'title' :	'Michael Spivak, Cálculo Infinitesimal, Editorial Reverté, segunda ed., 1992, reimpresión 2007.',
+	  'title' :	'Spivak, Michael: Cálculo Infinitesimal. Editorial Reverté, segunda ed., 1992.'
 	},
 	{ 'code' :	'Apo84',
-	  'title' :	'Tom M. Apostol, Cálculo con funciones de una variable, con una introducción al Álgebra Lineal, Editorial Reverté, 1984, reimpresión 2007. '
+	  'title' :	'Apostol, Tom M.: Cálculo con funciones de una variable, con una introducción al Álgebra Lineal. Editorial Reverté, 1984. '
 	},
 	{ 'code' :	'KKCS89',
-	  'title' :	'L. D. Kudriávtsev, Kutásov, A. D., Chejlov, V. I., and Shabunin, M. I., Problemas de análisis matemático, Editorial Mir, Moscú, 1989.'
+	  'title' :	'Kudriávtsev, L. D., Kutásov, A. D., Chejlov, V. I., y Shabunin, M. I.: Problemas de análisis matemático. Editorial Mir, Moscú, 1989.'
 	},
 	{ 'code' :	'Prol',
 	  'title' :	'Notas al prólogo de [Spi92]',
-	  'url' :	'/pdfs/prologo.pdf'
+	  'url' :	'pdfs/prologo.pdf'
 	}
   ]
 
