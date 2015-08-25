@@ -19,7 +19,11 @@ function infoHint(){
 	{ 'code' :	'Prel',
 	  'title' :	'Conceptos preliminares',
 	  'url' :	'pdfs/preliminares.pdf'
-	}
+	},
+	{ 'code' :	'Tres',
+	  'title' :	'Tres tipos de relaciones',
+	  'url' :	'pdfs/tres_relaciones.pdf'
+	},
   ]
 
 
