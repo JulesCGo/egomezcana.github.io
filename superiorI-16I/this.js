@@ -19,6 +19,10 @@ function infoHint(){
 	  'title' :	'Teoría clásica de conjuntos',
 	  'url' :	'pdfs/clasica.pdf'
 	},
+	{ 'code' :	'Hal1',
+	  'title' :	'Notas a [Hal66] (Parte 1: Axiomas básicos)',
+	  'url' :	'pdfs/notas_halmos1.pdf'
+	},
   ];
 
 
