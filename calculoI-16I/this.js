@@ -12,6 +12,10 @@ function infoHint(){
 	{ 'code' :	'Prol',
 	  'title' :	'Notas al prólogo de [Spi92]',
 	  'url' :	'pdfs/prologo.pdf'
+	},
+	{ 'code' :	'Int1',
+	  'title' :	'Intermezzo: Algunas pruebas por inducción',
+	  'url' :	'pdfs/intermezzo1.pdf'
 	}
   ]
 
