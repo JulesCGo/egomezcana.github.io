@@ -24,6 +24,10 @@ function infoHint(){
 	  'title' :	'Tres tipos de relaciones',
 	  'url' :	'pdfs/tres_relaciones.pdf'
 	},
+	{ 'code' :	'OrRe',
+	  'title' :	'De la teoría del orden a la teoría de retículas',
+	  'url' :	'pdfs/orden_reticula.pdf'
+	},
   ]
 
 
